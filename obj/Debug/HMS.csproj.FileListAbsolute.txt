@@ -1,0 +1,149 @@
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\ishuw\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\gemba\OneDrive\Desktop\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Hotel Management new\Hotel Management\Hotel_Management\Hotel_Management\Hotel_Management\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\bin\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\bin\Debug\HMS.exe.config
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\WindowsFormsApp4.FormAdminLogin.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_AddRoom.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_CustomerDetails.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_CustomerRegistration.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_CheckOut.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_CustomerReview.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.User_Control.UC_Employee.resources
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.exe
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\obj\Debug\HMS.pdb
+C:\Users\ishuw\Downloads\Ruby Resort HMS\Hotel_Management\HMS\bin\Debug\HMS.pdb
